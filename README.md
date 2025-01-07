@@ -1,7 +1,5 @@
 # BoardGame
 
-# Board Game Simulator - README
-
 ## Project Overview
 This project simulates a board game to calculate the probability of winning under various scenarios. The board game logic is implemented using a **doubly linked list** to represent the game board, and the simulation supports up to four players. Through this simulation, the program calculates the average number of moves required for a player to win and evaluates the game's dynamics under different player configurations.
 
